@@ -1,2 +1,2 @@
 # ucandoit2
-Detailed Steps for solutions..
+Detailed steps for solutions..
